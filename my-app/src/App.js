@@ -21,7 +21,4 @@ function App() {
     </div>
   );
 }
-
-// this is a testing of commit hjjjj
-
 export default App;
